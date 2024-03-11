@@ -1,4 +1,8 @@
+## Olá, meu nome é Warley Dias
+Me formei em análise e desenvolvimento de sistemas, adoro tecnnologia e sou um entusiasta da **linguagem Java**. 
 
+Atualmente estou aprendendo e praticando bastante a ** linguagem SQL** com o gerenciador de banco de dados **postgres**, o controlador de histórico de versões **git e git hub**, e a linguagem **Java** com o framework **spring boot**. Essas são minhas pioridades de estudos no momento.
+  
 <div>
 <img height = "150em" src="https://github-readme-stats.vercel.app/api?username=wwddnn&theme=catppuccin_latte">
 
