@@ -1,5 +1,5 @@
 ## Olá, meu nome é Warley Dias
-Me formei em análise e desenvolvimento de sistemas, adoro tecnnologia e sou um entusiasta da **linguagem Java**. 
+Formado em análise e desenvolvimento de sistemas, adoro tecnnologia e sou um entusiasta da **linguagem Java**. 
 
 Atualmente estou aprendendo e praticando bastante a **linguagem SQL** com o gerenciador de banco de dados **postgres**, o controlador de histórico de versões **git e git hub**, e a linguagem **Java** com o framework **spring boot**. Essas são minhas pioridades de estudos no momento.
   
