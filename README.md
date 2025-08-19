@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">- Java Developer<br>- Freelancer<br>- Graduated in systems analysis and development<br>- Lifelong learning<br>- Mentoring at the devsuperior school by professor nelio alves</p>
+<p align="left">- Junior Developer | React & TypeScript
+| Java & Spring Boot
+<br>- Graduated in systems analysis and development<br>- Lifelong learning<br>- Mentoring at the devsuperior school by teacher Nelio Alves</p>
 
 ###
 
