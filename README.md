@@ -50,7 +50,7 @@ Acredito que bom código é aquele que é limpo, testável e resolve problemas r
 
 ### 📬 Conecte-se Comigo
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/warley-dias/)
 [![Email](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-warleydias@gmail.com)
 
 ---
